@@ -1,0 +1,70 @@
+const loadoutModel = {
+    name: [kar98K: [
+        {
+            loadoutDescription: 'Quickscope',
+            muzzle: 'Monolitic Suppresor',
+        },
+          {
+            loadoutDescription: 'Warzone',
+            muzzle: 'Monolitic Suppresor',
+        }
+        function newLoadout() {
+    let x= {
+        loadoutDescription: 'Hardscope',
+        muzzle: 'Monolitic Suppresor',
+
+    }
+    loadoutModel.kar98K.push(x)
+}
+    ]
+    mp5: [
+          {
+            loadoutDescription: 'Run and gun',
+            muzzle: 'Monolitic Suppresor',
+        }
+          {
+            loadoutDescription: 'Warzone',
+            muzzle: 'Monolitic Suppresor',
+        }
+    ]
+    
+}]
+    kar98K: [
+        {
+            loadoutDescription: 'Quickscope',
+            muzzle: 'Monolitic Suppresor',
+        },
+          {
+            loadoutDescription: 'Warzone',
+            muzzle: 'Monolitic Suppresor',
+        }
+        function newLoadout() {
+    let x= {
+        loadoutDescription: 'Hardscope',
+        muzzle: 'Monolitic Suppresor',
+
+    }
+    loadoutModel.kar98K.push(x)
+}
+    ]
+    mp5: [
+          {
+            loadoutDescription: 'Run and gun',
+            muzzle: 'Monolitic Suppresor',
+        }
+          {
+            loadoutDescription: 'Warzone',
+            muzzle: 'Monolitic Suppresor',
+        }
+    ]
+    
+}
+
+function newLoadout() {
+    let x= {
+        loadoutDescription: 'Hardscope',
+        muzzle: 'Monolitic Suppresor',
+
+    }
+    loadoutModel.kar98K.push(x)
+}

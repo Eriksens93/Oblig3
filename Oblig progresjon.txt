@@ -1,0 +1,14 @@
+HAR: 
+1. Forside der man kan se våpenkategorier
+2. Gunpage med knapper for de ulike SMG'ene der du kan gå videre.
+3. MP5 side der man kan velge loadoutsa for MP5, i dette tilfellet : Run and Gun og Warzone. 
+3  knapper hvor "delete loadout, change loadout og add new loadout" . 
+   Delete og change loadout er default "av" da vi ikke har valgt en av de 2 loadoutsa. 
+   Vi huker av "Run and Gun" og trykker på change loadout som fører oss til side 4.
+4. MP5 loadout for Run and Gun der vi kan endre attachments for så og save loadout.
+
+SKAL GJØRE:
+5.Lage en side " resultat av loadout".   X
+
+Run and gun aka bilde med de 5 attachmentsa
+

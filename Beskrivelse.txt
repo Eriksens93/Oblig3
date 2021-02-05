@@ -1,0 +1,15 @@
+Jeg vil lage en applikasjon som viser loadouts til våpen i Call of Duty Modern Warfare.
+
+På forsiden skal det være 6 knapper med våpenkategorier man kan velge fra.
+Man skal kunne trykke på knappene og da få opp de forskjellige våpnene i den kategorien(side 2).
+
+På side 2 er det knapper med våpen man kan velge fra og vi velger MP5 som sender oss til side 3.
+
+På side 3 er det lagrede loadouts for MP5 under Submachine Guns. Der man kan slette,endre eller legge til ny loadout. 
+Det blir checkboxer ved siden av loadouts som man må man trykke på for å få tilgang til "delete loadout og change loadout", derfor er de markert grå.
+Add new loadout og change loadout" sender deg til side 4.
+
+På side 4 kommmer alle attachmentsa opp for å lage din egen loadout for så å lagre den. 
+Tanken er at man velger det man vil ha av attachments og da maks 5 stk som det er i spillet.
+
+På side 5 kommer den endelige loadouten du valgte på side 4.
